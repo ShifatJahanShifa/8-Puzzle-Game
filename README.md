@@ -3,5 +3,6 @@
 ## To Run: 
 ensure that you have all the modules installed mentioned in requirements.txt file
 ```
-  python 8-Puzzle-IDS.py
+  cd 8puzzleids
+  python 8puzzle_ids_gui.py
 ``` 
